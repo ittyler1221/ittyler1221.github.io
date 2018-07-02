@@ -1,0 +1,9 @@
+ h1 {
+  background-color:grey;
+}
+.carousel {
+  interval: 1s
+}
+body { 
+ background-color: grey;
+} 
